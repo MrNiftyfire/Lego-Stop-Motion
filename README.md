@@ -40,10 +40,9 @@ Each page focuses on one topic and includes images, info, challenges, or fun ext
 ---
 
 ## ✉️ Contact
-Add whatever contact options you are comfortable sharing.  
-Examples:
-- Your YouTube channel link  
-- Email 
+Contact options.
+- [My YouTube Channel](https://www.youtube.com/@MrNiftyfire)
+- [My Email](mrniftyfireofficial@outlook.com)
 
 ---
 
