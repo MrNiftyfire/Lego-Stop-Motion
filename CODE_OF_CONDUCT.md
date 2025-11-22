@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders of the **Mr Niftyfire Website** community pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status, nationality, personal appearance, race and color. But this is a christian website that has beliefs of christianity or similar religons like oxford. However this does not mean we will not treat everyone with respect.
+We as members, contributors, and leaders of the **Mr Niftyfire Website** community pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status, nationality, personal appearance, race and color. But this is a christian website that has beliefs of christianity or similar religons like oxford. However this does not mean we won't not treat everyone with respect.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, inclusive, and healthy community.
 
